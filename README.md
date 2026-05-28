@@ -1,6 +1,13 @@
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F7D358&height=220&section=header&text=Rishi%20Kejriwal&fontSize=45&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38"/>
+# Hi 👋, I'm Rishi Kejriwal
+### A passionate Junior DevOps Engineer from India
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+DevOps+Engineer;Azure+Cloud+Enthusiast;Terraform+Automation;Learning+Kubernetes" />
+
+</div>
 
 </div>
 
@@ -8,41 +15,35 @@
 <tr>
 <td width="50%">
 
-# Hi 👋, I'm Rishi Kejriwal
-
-### A passionate DevOps Engineer from India
-
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=rishi1306&label=PROFILE+VIEWS&color=0078D4&style=for-the-badge" />
+</p>
 <br>
 
-- 🔭 I’m currently working on  
-  **Terraform and Azure DevOps**
+- 🔭 I’m currently working on **Terraform and Azure DevOps**
 
-- 🌱 I’m currently learning  
-  **Docker and Kubernetes**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 👯 I’m looking to collaborate on  
-  **Azure, Terraform and DevOps Projects**
+- 👯 I’m looking to collaborate on **Azure and DevOps Projects**
 
-- 💬 Ask me about  
-  **Cloud, DevOps and Linux**
+- 💬 Ask me about **Cloud, Terraform and Linux**
 
-- 📫 How to reach me  
-  **yourmail@gmail.com**
+- 📫 How to reach me **rishikejriwalrk@gmail.com**
 
 <br>
 
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/YOURUSERNAME">
+<a href="https://linkedin.com/in/rishikejriwal/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="https://instagram.com/YOURUSERNAME">
+<a href="https://instagram.com/rishikejriwalrk/">
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:rishikejriwalrk@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 </p>
@@ -51,11 +52,20 @@
 
 <td width="50%">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/> -->
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/446e4d77-1f07-4467-99fe-fcfe0970e44a" />
 
-</td>
-</tr>
 </table>
+
+---
+
+# Current Focus
+
+- ☁️ Azure Infrastructure
+- ⚙️ Terraform Automation
+- 🐳 Docker Containers
+- ☸️ Kubernetes Basics
+- 🔄 CI/CD Pipelines
 
 ---
 
@@ -63,14 +73,15 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=azure" />
-<img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=terraform" />
+<img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=kubernetes" />
 <img src="https://skillicons.dev/icons?i=linux" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=bash" />
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=vscode" />
@@ -79,47 +90,8 @@
 
 ---
 
-# GitHub Stats:
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# Popular Repositories
-
-### ☁️ Azure Terraform Infrastructure
-- Resource Group
-- Virtual Network
-- NSG
-- VM Deployment
-
-### 🐳 Docker Projects
-- Dockerized Applications
-- Docker Compose
-- Container Networking
-
-### ⚙️ CI/CD Pipelines
-- GitHub Actions
-- Azure DevOps Pipelines
-- Automation Workflows
-
----
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blue&style=flat"/>
 
 ### ⭐ Building Cloud & DevOps Skills Every Day ⭐
 
